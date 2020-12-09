@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Use
+
+1.  Clone with `git clone https://github.com/Juvenix/react-website.git`
+2.  Change directory with `cd react-website`
+3.  Run `npm install` or `yarn add`
+4.  Run `npm start` or `yarn start`
+
+Try not to mix package managers though.
+
 ## Available Scripts
 
 In the project directory, you can run:
